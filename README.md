@@ -15,9 +15,9 @@
 
 ## Current Projects
 
-- 🚀 **[Project 1](https://github.com/magucc/project1)** - Brief description of your first project
-- 🔧 **[Project 2](https://github.com/magucc/project2)** - Brief description of your second project
-- 💡 **[Project 3](https://github.com/magucc/project3)** - Brief description of your third project
+- 🚀 **[Awesome App](https://github.com/magucc/awesome-app)** - A cool application that does amazing things
+- 🔧 **[Helpful Tool](https://github.com/magucc/helpful-tool)** - A utility to make your life easier
+- 💡 **[My Library](https://github.com/magucc/my-library)** - An open-source library for developers
 
 ## GitHub Activity
 
@@ -33,7 +33,7 @@
 ## Connect
 
 <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-@yourusername-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-Your_Name-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-Your_Name-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/magucc"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 ---
