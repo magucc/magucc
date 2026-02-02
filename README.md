@@ -1,4 +1,4 @@
-# Hi, I'm Magucc 👋
+# Hi, I'm Mani Gu 👋
 
 📍 **Your Location** | 🤖 **Your Title/Role** | 🚀 **Your Background**
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
 
-> Your personal tagline or current focus. What are you passionate about? What drives you?
+> Building the future, one commit at a time. Passionate about crafting elegant solutions and exploring the frontiers of technology.
 
 ## Current Projects
 
@@ -32,15 +32,14 @@
 
 ## Connect
 
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-@yourusername-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-Your_Name-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/m%C3%A1ni-gudvardarson-78095929/"><img src="https://img.shields.io/badge/-Mani_Gu-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/magucc"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 ---
 
 ### Philosophy
 
-> "Your personal motto or philosophy about coding, life, or technology goes here."
+> "Code is poetry in motion—write it with intention, share it with purpose, and let it evolve with curiosity."
 
 <!-- Feel free to customize this template further! Add sections for:
 - Blog posts
